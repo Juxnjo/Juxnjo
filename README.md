@@ -1,5 +1,5 @@
-<div id="header" aling="center">
-    <img aling="center" width="200" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="200">
+<div aling="center">
+    <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="200">
     <h1 aling="center">Hi 👋, I'm Juan José</h1>
     <h3 aling="center">A passionate fullstack web developer from Colombia. I like React.</h3>
 </div>
@@ -32,9 +32,8 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juxnjo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juxnjo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juxnjo&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juxnjo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juxnjo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juxnjo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
