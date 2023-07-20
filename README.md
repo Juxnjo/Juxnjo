@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div id="header" aling="center">
     <img width="200" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="200">
     <h1 aling="center">Hi 👋, I'm Juan José</h1>
     <h3 aling="center">A passionate fullstack web developer from Colombia. I like React.</h3>
