@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Sobre mi :
+### 👨‍💻 About me :
 
 - 📝 I work as a full stack web developer.
 
