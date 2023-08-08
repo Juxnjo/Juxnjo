@@ -1,14 +1,14 @@
 <div align="center">
     <img width="200" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="200">
     <h1 align="center">Hi 👋, I'm Juan José</h1>
-    <h3 align="center">A attempted Fullstack Developer from Colombia. I like React.</h3>
+    <h3 align="center">A Trainee Developer from Colombia. I like React.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About me :
 
-- 📝 I work as a full stack web developer.
+- 📝 I work as a Backend and Database developer.
 
 - 📫 How to reach me **juxnjo.dev@gmail.com**
 
@@ -23,6 +23,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="tailwind" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="python" width="40" height="40"/>&nbsp;
       </div>
