@@ -10,7 +10,7 @@
 
 - 📝 I work as a Fullstack developer.
 
-- 📫 How to reach me **[juxnjo.dev@gmail.com](https://www.linkedin.com/in/juxnjo/)**
+- 📫 How to reach me **https://www.linkedin.com/in/juxnjo/**
 
 - 🌱 I’m currently learning **Python**
 
@@ -26,7 +26,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="tailwind" width="40" height="40" />&nbsp; 
+        
 </div>
 
 ---
