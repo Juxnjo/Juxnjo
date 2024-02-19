@@ -10,7 +10,7 @@
 
 - 📝 I work as a Fullstack developer.
 
-- 📫 How to reach me **juxnjo.dev@gmail.com**
+- 📫 How to reach me **[juxnjo.dev@gmail.com](https://www.linkedin.com/in/juxnjo/)**
 
 - 🌱 I’m currently learning **Python**
 
