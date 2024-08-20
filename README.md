@@ -10,7 +10,7 @@
 
 - 📝 I work as a Fullstack developer.
 
-- 📫 How to reach me **https://www.linkedin.com/in/juxnjo/**
+- 📫 How to reach me **https://www.linkedin.com/in/juan-jose-ramirez-mejia/**
 
 - 🌱 I’m currently learning **Python**
 
