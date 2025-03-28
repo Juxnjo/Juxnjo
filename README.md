@@ -1,7 +1,7 @@
 <div align="center">
     <img width="200" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="200">
     <h1 align="center">Hi 👋, I'm Juan José</h1>
-    <h3 align="center">A Trainee Developer from Colombia. I like React.</h3>
+    <h3 align="center">A Developer from Colombia. I like React.</h3>
 </div>
 
 ---
