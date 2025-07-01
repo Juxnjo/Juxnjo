@@ -31,10 +31,4 @@
 
 ---
 
-### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juxnjo&theme=dark&hide_border=false)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juxnjo&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juxnjo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
