@@ -35,7 +35,7 @@ Desarrollador full stack en la Universidad EAFIT, en Medellín. Lo mío es armar
 
 ### Hablemos
 
-Escribo sobre agentes de IA, seguridad y desarrollo en [LinkedIn](https://www.linkedin.com/in/juan-jose-ramirez-mejia/), en español y con acento paisa.
+Escribo sobre agentes de IA, seguridad y desarrollo en [LinkedIn](https://www.linkedin.com/in/juan-jose-ramirez-mejia/).
 
 <details>
 <summary>English version</summary>
