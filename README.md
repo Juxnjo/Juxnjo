@@ -1,34 +1,51 @@
-<div align="center">
-    <img width="200" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="200">
-    <h1 align="center">Hi 👋, I'm Juan José</h1>
-    <h3 align="center">A Developer from Colombia. I like React.</h3>
-</div>
+<p align="center">
+  <img src="banner.png" alt="Agentes de IA que hacen trabajo real. Harness de IA + full stack" width="100%">
+</p>
 
----
+## Hola, soy Juanjo
 
-### 👨‍💻 About me :
+Desarrollador full stack en la Universidad EAFIT, en Medellín. Lo mío es armar el **harness de IA**: todo lo que va alrededor del modelo para que haga trabajo real.
 
-- 📝 I work as a Fullstack developer.
+> El modelo es el motor; el harness es el carro. Herramientas y MCP para que el agente pueda hacer cosas, contexto y specs para que sepa qué hacer, permisos para que no se meta donde no debe, evals para saber si sí funciona y un humano en el circuito donde importa.
 
-- 📫 How to reach me **https://www.linkedin.com/in/juan-jose-ramirez-mejia/**
+### En qué ando
 
-- 🌱 I’m currently learning **Python**
+- **Asistentes en Microsoft Copilot Studio** para áreas administrativas de la universidad, publicados en Teams: historias de usuario, documentación y evals.
+- **Agentes con Claude Agent SDK** para el equipo de desarrollo. Armé el MVP de un worker que documenta repos solito y publica en Azure DevOps, conectado al servidor MCP del equipo.
+- **Desarrollo guiado por specs** con OpenSpec y Claude Code en el día a día.
 
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" **alt="nodejs" width="40" height="40"/>&nbsp; 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="express" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer"  alt="SQLServer" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        
-</div>
+> Ojo pues: ese camello vive en repos privados de la universidad. Lo que hay acá son proyectos personales y de formación.
 
----
+### Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juxnjo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,react,nodejs,express,python,azure,docker,postgres,mongodb,git" alt="C#, .NET, Angular, TypeScript, React, Node.js, Express, Python, Azure, Docker, PostgreSQL, MongoDB, Git">
+</p>
+
+**IA y agentes:** Claude Agent SDK · Claude Code · Model Context Protocol (MCP) · Microsoft Copilot Studio · Power Automate
+
+### Proyectos públicos
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [ecommerce-tennis](https://github.com/Juxnjo/ecommerce-tennis) | E-commerce de productos de tenis, dockerizado y con diagramas de arquitectura | .NET 8 · Angular 18 |
+| [Auth-Sales-App](https://github.com/Juxnjo/Auth-Sales-App) | Gestión de productos financieros con auth segura, captcha, dashboard y backoffice | Node.js · PostgreSQL |
+| [station-management-system-app](https://github.com/Juxnjo/station-management-system-app) | Administración de estaciones con autenticación y formularios validados | React · Vite |
+| [STLPrintBot](https://github.com/e-pasion/STLPrintBot-ProyectoSena) | Cotizador de impresión 3D a partir de archivos STL (proyecto SENA, aporté en el front-end) | JavaScript |
+
+### Hablemos
+
+Escribo sobre agentes de IA, seguridad y desarrollo en [LinkedIn](https://www.linkedin.com/in/juan-jose-ramirez-mejia/), en español y con acento paisa.
+
+<details>
+<summary>English version</summary>
+
+Full stack developer at Universidad EAFIT (Medellín, Colombia). I build the **AI harness**: everything around the model that makes it do real work. Tools and MCP, context and specs, permissions, evals and a human in the loop where it matters.
+
+- Microsoft Copilot Studio assistants for the university's administrative areas, published in Teams.
+- Claude Agent SDK agents for the dev team, including a living-documentation worker MVP that documents repos and publishes to Azure DevOps.
+- Spec-driven development with OpenSpec and Claude Code.
+
+Most of my AI work lives in private university repos; this profile shows personal and training projects.
+
+</details>
