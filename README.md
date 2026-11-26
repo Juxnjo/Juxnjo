@@ -18,11 +18,23 @@ Desarrollador full stack en la Universidad EAFIT, en Medellín. Lo mío es armar
 
 ### Stack
 
+**IA y agentes**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Agent SDK">
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)">
+  <img src="https://img.shields.io/badge/Copilot_Studio-0F6CBD?style=for-the-badge" alt="Microsoft Copilot Studio">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" alt="Power Automate">
+  <img src="https://img.shields.io/badge/OpenSpec-0B1220?style=for-the-badge" alt="OpenSpec">
+</p>
+
+**Desarrollo**
+
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,react,nodejs,express,python,azure,docker,postgres,mongodb,git" alt="C#, .NET, Angular, TypeScript, React, Node.js, Express, Python, Azure, Docker, PostgreSQL, MongoDB, Git">
 </p>
-
-**IA y agentes:** Claude Agent SDK · Claude Code · Model Context Protocol (MCP) · Microsoft Copilot Studio · Power Automate
 
 ### Proyectos públicos
 
